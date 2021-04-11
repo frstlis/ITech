@@ -6,7 +6,7 @@
   <link href="https://frstlis.github.io/ITech/atom.xml" rel="self"/>
   
   <link href="https://frstlis.github.io/ITech/"/>
-  <updated>2021-04-11T10:02:43.568Z</updated>
+  <updated>2021-04-09T15:06:16.633Z</updated>
   <id>https://frstlis.github.io/ITech/</id>
   
   <author>
@@ -15,32 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>博客调试中-这个大墙太强大了</title>
-    <link href="https://frstlis.github.io/ITech/2021/04/11/%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD-%E8%BF%99%E4%B8%AA%E5%A4%A7%E5%A2%99%E5%A4%AA%E5%BC%BA%E5%A4%A7%E4%BA%86/"/>
-    <id>https://frstlis.github.io/ITech/2021/04/11/%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD-%E8%BF%99%E4%B8%AA%E5%A4%A7%E5%A2%99%E5%A4%AA%E5%BC%BA%E5%A4%A7%E4%BA%86/</id>
-    <published>2021-04-11T09:55:06.000Z</published>
-    <updated>2021-04-11T10:02:43.568Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;不管怎么说，都不应该墙掉好的社区，好的技术平台，为了自身的正值利益因噎废食，还怎么&lt;br&gt;克服掐脖子呢?最好的解决办法是，让大墙的功能更强大一些，别一刀切好吗？：）&lt;/p&gt;
-&lt;link rel=&quot;stylesheet&quot;</summary>
-        
-      
-    
-    
-    
-    <category term="-调试 -大墙" scheme="https://frstlis.github.io/ITech/categories/%E8%B0%83%E8%AF%95-%E5%A4%A7%E5%A2%99/"/>
-    
-    
-    <category term="-调试 -大墙" scheme="https://frstlis.github.io/ITech/tags/%E8%B0%83%E8%AF%95-%E5%A4%A7%E5%A2%99/"/>
-    
-  </entry>
   
   <entry>
     <title>就是一篇随笔随笔</title>
@@ -302,9 +276,9 @@
     
     <category term="Hexo" scheme="https://frstlis.github.io/ITech/tags/Hexo/"/>
     
-    <category term="MarkdownPro2" scheme="https://frstlis.github.io/ITech/tags/MarkdownPro2/"/>
-    
     <category term="Git" scheme="https://frstlis.github.io/ITech/tags/Git/"/>
+    
+    <category term="MarkdownPro2" scheme="https://frstlis.github.io/ITech/tags/MarkdownPro2/"/>
     
     <category term="Node.js" scheme="https://frstlis.github.io/ITech/tags/Node-js/"/>
     

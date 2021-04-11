@@ -193,101 +193,6 @@
   
   
   <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
-    <link itemprop="mainEntityOfPage" href="https://frstlis.github.io/ITech/2018/12/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-sudo-%E5%91%BD%E4%BB%A4%E5%9C%A8-Linux-%E4%B8%AD%E9%83%A8%E7%BD%B2%E8%B6%85%E7%BA%A7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90-2018-12-02/">
-
-    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
-      <meta itemprop="image" content="/ITech/images/avatar.jpg">
-      <meta itemprop="name" content="RRE. GeekBear">
-      <meta itemprop="description" content="术亦哲也，浸之乐也">
-    </span>
-
-    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="GeekBear">
-    </span>
-      <header class="post-header">
-        <h2 class="post-title" itemprop="name headline">
-          
-            <a href="/ITech/2018/12/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-sudo-%E5%91%BD%E4%BB%A4%E5%9C%A8-Linux-%E4%B8%AD%E9%83%A8%E7%BD%B2%E8%B6%85%E7%BA%A7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90-2018-12-02/" class="post-title-link" itemprop="url">如何使用sudo命令在Linux中部署超级用户权限（恢复）</a>
-        </h2>
-
-        <div class="post-meta">
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-calendar"></i>
-              </span>
-              <span class="post-meta-item-text">发表于</span>
-
-              <time title="创建时间：2018-12-02 22:54:48" itemprop="dateCreated datePublished" datetime="2018-12-02T22:54:48+08:00">2018-12-02</time>
-            </span>
-              <span class="post-meta-item">
-                <span class="post-meta-item-icon">
-                  <i class="far fa-calendar-check"></i>
-                </span>
-                <span class="post-meta-item-text">更新于</span>
-                <time title="修改时间：2021-04-09 23:06:16" itemprop="dateModified" datetime="2021-04-09T23:06:16+08:00">2021-04-09</time>
-              </span>
-            <span class="post-meta-item">
-              <span class="post-meta-item-icon">
-                <i class="far fa-folder"></i>
-              </span>
-              <span class="post-meta-item-text">分类于</span>
-                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
-                  <a href="/ITech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/" itemprop="url" rel="index"><span itemprop="name">技术文档</span></a>
-                </span>
-            </span>
-
-          
-  
-  <span class="post-meta-item">
-    
-      <span class="post-meta-item-icon">
-        <i class="far fa-comment"></i>
-      </span>
-      <span class="post-meta-item-text">Valine：</span>
-    
-    <a title="valine" href="/ITech/2018/12/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-sudo-%E5%91%BD%E4%BB%A4%E5%9C%A8-Linux-%E4%B8%AD%E9%83%A8%E7%BD%B2%E8%B6%85%E7%BA%A7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90-2018-12-02/#valine-comments" itemprop="discussionUrl">
-      <span class="post-comments-count valine-comment-count" data-xid="/ITech/2018/12/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-sudo-%E5%91%BD%E4%BB%A4%E5%9C%A8-Linux-%E4%B8%AD%E9%83%A8%E7%BD%B2%E8%B6%85%E7%BA%A7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90-2018-12-02/" itemprop="commentCount"></span>
-    </a>
-  </span>
-  
-  
-
-        </div>
-      </header>
-
-    
-    
-    
-    <div class="post-body" itemprop="articleBody">
-
-      
-          <p><strong>sudo</strong> 命令在你想要使用超级权限运行一条临时的命令时非常方便，但是当它不能做到你期望的所有事的时候，你也会遇到一些麻烦。比如说你想在某些日志文件结尾添加一些重要的信息，你可能会尝试这样做：  </p>
-          <!--noindex-->
-            <div class="post-button">
-              <a class="btn" href="/ITech/2018/12/02/%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8-sudo-%E5%91%BD%E4%BB%A4%E5%9C%A8-Linux-%E4%B8%AD%E9%83%A8%E7%BD%B2%E8%B6%85%E7%BA%A7%E7%94%A8%E6%88%B7%E6%9D%83%E9%99%90-2018-12-02/#more" rel="contents">
-                阅读全文 &raquo;
-              </a>
-            </div>
-          <!--/noindex-->
-        
-      
-    </div>
-
-    
-    
-    
-      <footer class="post-footer">
-        <div class="post-eof"></div>
-      </footer>
-  </article>
-  
-  
-  
-
-      
-  
-  
-  <article itemscope itemtype="http://schema.org/Article" class="post-block" lang="zh-CN">
     <link itemprop="mainEntityOfPage" href="https://frstlis.github.io/ITech/2018/12/01/%E5%88%A9%E7%94%A8Win10-Node-js-Git-Hexo%E5%9C%A8GitHub%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2-2018-12-01/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -450,20 +355,20 @@
       <div class="site-state-item site-state-posts">
           <a href="/ITech/archives/">
         
-          <span class="site-state-item-count">12</span>
+          <span class="site-state-item-count">11</span>
           <span class="site-state-item-name">日志</span>
         </a>
       </div>
       <div class="site-state-item site-state-categories">
             <a href="/ITech/categories/">
           
-        <span class="site-state-item-count">8</span>
+        <span class="site-state-item-count">7</span>
         <span class="site-state-item-name">分类</span></a>
       </div>
       <div class="site-state-item site-state-tags">
             <a href="/ITech/tags/">
           
-        <span class="site-state-item-count">27</span>
+        <span class="site-state-item-count">26</span>
         <span class="site-state-item-name">标签</span></a>
       </div>
   </nav>
