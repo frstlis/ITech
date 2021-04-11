@@ -6,7 +6,7 @@
   <link href="https://frstlis.github.io/ITech/atom.xml" rel="self"/>
   
   <link href="https://frstlis.github.io/ITech/"/>
-  <updated>2021-04-09T15:06:16.633Z</updated>
+  <updated>2021-04-11T11:18:56.979Z</updated>
   <id>https://frstlis.github.io/ITech/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GitHub博客调试中</title>
+    <link href="https://frstlis.github.io/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/"/>
+    <id>https://frstlis.github.io/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/</id>
+    <published>2021-04-11T11:17:01.000Z</published>
+    <updated>2021-04-11T11:18:56.979Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;加油啊，让技术无国界，让政治在技术中无所作为。&lt;/p&gt;
+&lt;link rel=&quot;stylesheet&quot; href=&quot;/ITech/css/spoiler.css&quot; type=&quot;text/css&quot;&gt;&lt;script src=&quot;/ITech/js/spoiler.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="吐槽" scheme="https://frstlis.github.io/ITech/categories/%E5%90%90%E6%A7%BD/"/>
+    
+    
+    <category term="Git 调试" scheme="https://frstlis.github.io/ITech/tags/Git-%E8%B0%83%E8%AF%95/"/>
+    
+    <category term="吐槽" scheme="https://frstlis.github.io/ITech/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
   
   <entry>
     <title>就是一篇随笔随笔</title>

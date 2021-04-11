@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://frstlis.github.io/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/</loc>
+    
+    <lastmod>2021-04-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/2020/12/15/Hexo%E5%8D%9A%E5%AE%A2%E5%9C%A8%E5%A4%9A%E5%8F%B0%E7%BB%88%E7%AB%AF%E5%90%8C%E6%AD%A5%E7%AE%A1%E7%90%86/</loc>
     
     <lastmod>2021-04-09</lastmod>
@@ -44,14 +51,14 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/categories/index.html</loc>
+    <loc>https://frstlis.github.io/ITech/tags/index.html</loc>
     
     <lastmod>2021-04-09</lastmod>
     
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/index.html</loc>
+    <loc>https://frstlis.github.io/ITech/categories/index.html</loc>
     
     <lastmod>2021-04-09</lastmod>
     
@@ -86,14 +93,14 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/</loc>
+    <loc>https://frstlis.github.io/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</loc>
     
     <lastmod>2021-04-09</lastmod>
     
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</loc>
+    <loc>https://frstlis.github.io/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/</loc>
     
     <lastmod>2021-04-09</lastmod>
     
@@ -165,6 +172,20 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/tags/Git-%E8%B0%83%E8%AF%95/</loc>
+    <lastmod>2021-04-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://frstlis.github.io/ITech/tags/%E5%90%90%E6%A7%BD/</loc>
+    <lastmod>2021-04-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/tags/Hexo/</loc>
     <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
@@ -214,6 +235,13 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/tags/Photoshop/</loc>
+    <lastmod>2021-04-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/tags/import/</loc>
     <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
@@ -222,13 +250,6 @@
   
   <url>
     <loc>https://frstlis.github.io/ITech/tags/Function/</loc>
-    <lastmod>2021-04-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/tags/Photoshop/</loc>
     <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -314,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/categories/Python/</loc>
+    <loc>https://frstlis.github.io/ITech/categories/%E5%90%90%E6%A7%BD/</loc>
     <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -322,6 +343,13 @@
   
   <url>
     <loc>https://frstlis.github.io/ITech/categories/%E6%93%8D%E4%BD%9C%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2021-04-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://frstlis.github.io/ITech/categories/Python/</loc>
     <lastmod>2021-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

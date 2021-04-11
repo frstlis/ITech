@@ -100,6 +100,19 @@
       </tags>
   </entry>
   <entry>
+    <title>GitHub博客调试中</title>
+    <url>/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/</url>
+    <content><![CDATA[<p>加油啊，让技术无国界，让政治在技术中无所作为。</p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>吐槽</category>
+      </categories>
+      <tags>
+        <tag>Git 调试</tag>
+        <tag>吐槽</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo博客在多台终端同步管理</title>
     <url>/ITech/2020/12/15/Hexo%E5%8D%9A%E5%AE%A2%E5%9C%A8%E5%A4%9A%E5%8F%B0%E7%BB%88%E7%AB%AF%E5%90%8C%E6%AD%A5%E7%AE%A1%E7%90%86/</url>
     <content><![CDATA[<h2 id="Hexo-Github博客在多台终端同步管理"><a href="#Hexo-Github博客在多台终端同步管理" class="headerlink" title="Hexo+Github博客在多台终端同步管理"></a>Hexo+Github博客在多台终端同步管理</h2><p>最近这两天研究Hexo制作个人博客，发现自己放了好长时间的博客系统在一次环境系统升级过后崩溃了，然后决定从零开始。在配置过程中又遇到了这样的问题，在不同的电脑终端同步博客遇到了困难，不能实现要求，然后查找了很多博文和官网的文档，最终找到了解决的办法，在此记录下来以便能帮助有需要的后来人。此方法利用Git管理Hexo产生的文件，实现在不同的电脑上同步（Github）所需的文件，也可以正常的在不同的Hexo环境里进行相应操作，只要在做完之后同步到Github的仓库里即可。下面具体来说说：</p>
@@ -252,6 +265,30 @@ hexo g -d</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>PS去除图片上的文字</title>
+    <url>/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</url>
+    <content><![CDATA[<p>研究操作系统原理未必不需要Photoshop处理图片，碎片化的记录一下吧，也是当做练练文笔了。今天研究H神的时候做一个博文的logo时，需要一张图片，从网上找到了一张图片，发现有网站的水印logo，要去掉它，操作如下：</p>
+<span id="more"></span>
+<p>看图操作吧，打开要编辑的图片，右上角有 <em>7788.com</em> 水印，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937576.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="open"></p>
+<p>点选 <strong>选择工具</strong>，将水印框选，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218091628681.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70#pic_center" alt="select"></p>
+<p>然后选择 <strong>编辑</strong> 菜单中的 <strong>填充</strong>命令，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="fill"></p>
+<p>在弹出的 <strong>填充</strong> 对话框 <strong>内容</strong> 选项中选择 <strong>内容识别</strong>，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937598.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify1"></p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937589.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify2"></p>
+<p>然后点击 <strong>确定</strong>，就把水印去掉啦！</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937572.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="complete"></p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>操作技巧</category>
+      </categories>
+      <tags>
+        <tag>Photoshop</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Python实现Server-Client</title>
     <url>/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/</url>
     <content><![CDATA[<p>为了尽快的把上一篇提出的问题展示出来，翻看了Python的文档，然后实现一番，果然在代码量上远远少于C语言，更加的形象，判若一个chat！好吧，附上代码和实验截图，一睹为快吧！</p>
@@ -281,30 +318,6 @@ hexo g -d</code></pre>
         <tag>Python</tag>
         <tag>import</tag>
         <tag>Function</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>PS去除图片上的文字</title>
-    <url>/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</url>
-    <content><![CDATA[<p>研究操作系统原理未必不需要Photoshop处理图片，碎片化的记录一下吧，也是当做练练文笔了。今天研究H神的时候做一个博文的logo时，需要一张图片，从网上找到了一张图片，发现有网站的水印logo，要去掉它，操作如下：</p>
-<span id="more"></span>
-<p>看图操作吧，打开要编辑的图片，右上角有 <em>7788.com</em> 水印，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937576.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="open"></p>
-<p>点选 <strong>选择工具</strong>，将水印框选，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218091628681.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70#pic_center" alt="select"></p>
-<p>然后选择 <strong>编辑</strong> 菜单中的 <strong>填充</strong>命令，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="fill"></p>
-<p>在弹出的 <strong>填充</strong> 对话框 <strong>内容</strong> 选项中选择 <strong>内容识别</strong>，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937598.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify1"></p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937589.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify2"></p>
-<p>然后点击 <strong>确定</strong>，就把水印去掉啦！</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937572.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="complete"></p>
-<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>操作技巧</category>
-      </categories>
-      <tags>
-        <tag>Photoshop</tag>
       </tags>
   </entry>
   <entry>
