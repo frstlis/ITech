@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/</loc>
+    <loc>https://frstlis.github.io/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</loc>
     
     <lastmod>2021-04-09</lastmod>
     
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</loc>
+    <loc>https://frstlis.github.io/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/</loc>
     
     <lastmod>2021-04-09</lastmod>
     
@@ -235,6 +235,13 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/tags/Photoshop/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -257,13 +264,6 @@
   
   <url>
     <loc>https://frstlis.github.io/ITech/tags/IDM/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/tags/Photoshop/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -342,6 +342,13 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/categories/%E6%93%8D%E4%BD%9C%E6%8A%80%E5%B7%A7/</loc>
+    <lastmod>2021-06-26</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/categories/Python/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
@@ -350,13 +357,6 @@
   
   <url>
     <loc>https://frstlis.github.io/ITech/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</loc>
-    <lastmod>2021-06-26</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/categories/%E6%93%8D%E4%BD%9C%E6%8A%80%E5%B7%A7/</loc>
     <lastmod>2021-06-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
