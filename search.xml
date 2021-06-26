@@ -85,6 +85,16 @@
       </tags>
   </entry>
   <entry>
+    <title>GitHub博客调试中</title>
+    <url>/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/</url>
+    <content><![CDATA[<p>加油啊，让技术无国界，让政治在技术中无所作为。</p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Python</tag>
+        <tag>Basics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HangInThere</title>
     <url>/ITech/2020/12/19/HangInThere/</url>
     <content><![CDATA[<p><img src="https://img-blog.csdnimg.cn/20201219000658706.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="1"></p>
@@ -97,19 +107,6 @@
       </categories>
       <tags>
         <tag>HangInThere</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GitHub博客调试中</title>
-    <url>/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/</url>
-    <content><![CDATA[<p>加油啊，让技术无国界，让政治在技术中无所作为。</p>
-<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>吐槽</category>
-      </categories>
-      <tags>
-        <tag>Git 调试</tag>
-        <tag>吐槽</tag>
       </tags>
   </entry>
   <entry>
@@ -265,27 +262,19 @@ hexo g -d</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>PS去除图片上的文字</title>
-    <url>/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</url>
-    <content><![CDATA[<p>研究操作系统原理未必不需要Photoshop处理图片，碎片化的记录一下吧，也是当做练练文笔了。今天研究H神的时候做一个博文的logo时，需要一张图片，从网上找到了一张图片，发现有网站的水印logo，要去掉它，操作如下：</p>
-<span id="more"></span>
-<p>看图操作吧，打开要编辑的图片，右上角有 <em>7788.com</em> 水印，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937576.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="open"></p>
-<p>点选 <strong>选择工具</strong>，将水印框选，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218091628681.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70#pic_center" alt="select"></p>
-<p>然后选择 <strong>编辑</strong> 菜单中的 <strong>填充</strong>命令，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="fill"></p>
-<p>在弹出的 <strong>填充</strong> 对话框 <strong>内容</strong> 选项中选择 <strong>内容识别</strong>，</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937598.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify1"></p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937589.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify2"></p>
-<p>然后点击 <strong>确定</strong>，就把水印去掉啦！</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218085937572.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="complete"></p>
+    <title>Python 基础知识“切片”回顾</title>
+    <url>/ITech/2021/06/26/Python-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E2%80%9C%E5%88%87%E7%89%87%E2%80%9D%E5%9B%9E%E9%A1%BE/</url>
+    <content><![CDATA[<p>好久没来写写了，写写python的基础–运算符，回顾也好巩固也好，还是需要注重基础的。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">a,b,c&#x3D;20,5,4</span><br><span class="line">print(a-a*b&#x2F;a&#x2F;&#x2F;c)</span><br></pre></td></tr></table></figure>
+<p>以上代码快输出结果是什么？</p>
+<p>请自评论区给出结果。</p>
 <link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
-        <category>操作技巧</category>
+        <category>技术文档</category>
       </categories>
       <tags>
-        <tag>Photoshop</tag>
+        <tag>Python</tag>
+        <tag>运算符</tag>
       </tags>
   </entry>
   <entry>
@@ -331,6 +320,30 @@ hexo g -d</code></pre>
       </categories>
       <tags>
         <tag>IDM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PS去除图片上的文字</title>
+    <url>/ITech/2020/12/18/PS%E5%8E%BB%E9%99%A4%E5%9B%BE%E7%89%87%E4%B8%8A%E7%9A%84%E6%96%87%E5%AD%97/</url>
+    <content><![CDATA[<p>研究操作系统原理未必不需要Photoshop处理图片，碎片化的记录一下吧，也是当做练练文笔了。今天研究H神的时候做一个博文的logo时，需要一张图片，从网上找到了一张图片，发现有网站的水印logo，要去掉它，操作如下：</p>
+<span id="more"></span>
+<p>看图操作吧，打开要编辑的图片，右上角有 <em>7788.com</em> 水印，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937576.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="open"></p>
+<p>点选 <strong>选择工具</strong>，将水印框选，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218091628681.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70#pic_center" alt="select"></p>
+<p>然后选择 <strong>编辑</strong> 菜单中的 <strong>填充</strong>命令，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937623.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="fill"></p>
+<p>在弹出的 <strong>填充</strong> 对话框 <strong>内容</strong> 选项中选择 <strong>内容识别</strong>，</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937598.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify1"></p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937589.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="identify2"></p>
+<p>然后点击 <strong>确定</strong>，就把水印去掉啦！</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218085937572.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="complete"></p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>操作技巧</category>
+      </categories>
+      <tags>
+        <tag>Photoshop</tag>
       </tags>
   </entry>
   <entry>
