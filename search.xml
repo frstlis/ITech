@@ -294,7 +294,7 @@ hexo g -d</code></pre>
 <p>请在评论区给出结果进行评论。<br>具体做法是不是不用我在说拉呢？<br>直接点击博文主题下方的“valine”，或者点击博文标题，在文末位置就会看到啦！！！<br>哈哈哈，快来参与吧。</p>
 <link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
-        <category>技术文档</category>
+        <category>Python</category>
       </categories>
       <tags>
         <tag>Python</tag>
@@ -325,7 +325,7 @@ hexo g -d</code></pre>
 <p><img src="https://img-blog.csdnimg.cn/20201218081104595.jpg#pic_center" alt="logo"></p>
 <link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
-        <category>Python</category>
+        <category>技术文档</category>
       </categories>
       <tags>
         <tag>Python</tag>
@@ -512,10 +512,11 @@ Sorry, user nemo is not allowed to execute &#39;/bin/date&#39; as root on butter
 <p>欢迎在评论区回复答案。</p>
 <link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
       <categories>
-        <category>技术文档</category>
+        <category>Python</category>
       </categories>
       <tags>
         <tag>Python</tag>
+        <tag>变量</tag>
       </tags>
   </entry>
 </search>

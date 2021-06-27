@@ -6,7 +6,7 @@
   <link href="https://frstlis.github.io/ITech/atom.xml" rel="self"/>
   
   <link href="https://frstlis.github.io/ITech/"/>
-  <updated>2021-06-27T01:55:48.166Z</updated>
+  <updated>2021-06-27T06:56:10.341Z</updated>
   <id>https://frstlis.github.io/ITech/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://frstlis.github.io/ITech/2021/06/27/Python%E5%9F%BA%E7%A1%80%E5%B0%8F%E9%85%8C/"/>
     <id>https://frstlis.github.io/ITech/2021/06/27/Python%E5%9F%BA%E7%A1%80%E5%B0%8F%E9%85%8C/</id>
     <published>2021-06-27T01:51:31.000Z</published>
-    <updated>2021-06-27T01:55:48.166Z</updated>
+    <updated>2021-06-27T06:56:10.341Z</updated>
     
     
       
@@ -35,10 +35,12 @@
     
     
     
-    <category term="技术文档" scheme="https://frstlis.github.io/ITech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    <category term="Python" scheme="https://frstlis.github.io/ITech/categories/Python/"/>
     
     
     <category term="Python" scheme="https://frstlis.github.io/ITech/tags/Python/"/>
+    
+    <category term="变量" scheme="https://frstlis.github.io/ITech/tags/%E5%8F%98%E9%87%8F/"/>
     
   </entry>
   
@@ -47,7 +49,7 @@
     <link href="https://frstlis.github.io/ITech/2021/06/26/Python-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E2%80%9C%E5%88%87%E7%89%87%E2%80%9D%E5%9B%9E%E9%A1%BE/"/>
     <id>https://frstlis.github.io/ITech/2021/06/26/Python-%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E2%80%9C%E5%88%87%E7%89%87%E2%80%9D%E5%9B%9E%E9%A1%BE/</id>
     <published>2021-06-26T01:30:42.000Z</published>
-    <updated>2021-06-26T02:05:27.485Z</updated>
+    <updated>2021-06-27T06:54:42.004Z</updated>
     
     
       
@@ -61,7 +63,7 @@
     
     
     
-    <category term="技术文档" scheme="https://frstlis.github.io/ITech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
+    <category term="Python" scheme="https://frstlis.github.io/ITech/categories/Python/"/>
     
     
     <category term="Python" scheme="https://frstlis.github.io/ITech/tags/Python/"/>
@@ -130,14 +132,14 @@
     <link href="https://frstlis.github.io/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/"/>
     <id>https://frstlis.github.io/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/</id>
     <published>2020-12-20T12:58:51.000Z</published>
-    <updated>2021-04-09T15:06:16.629Z</updated>
+    <updated>2021-06-27T06:53:48.051Z</updated>
     
     
     <summary type="html">&lt;p&gt;为了尽快的把上一篇提出的问题展示出来，翻看了Python的文档，然后实现一番，果然在代码量上远远少于C语言，更加的形象，判若一个chat！好吧，附上代码和实验截图，一睹为快吧！&lt;/p&gt;</summary>
     
     
     
-    <category term="Python" scheme="https://frstlis.github.io/ITech/categories/Python/"/>
+    <category term="技术文档" scheme="https://frstlis.github.io/ITech/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E6%A1%A3/"/>
     
     
     <category term="Python" scheme="https://frstlis.github.io/ITech/tags/Python/"/>
