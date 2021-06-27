@@ -9,6 +9,14 @@
 
 
     <url>
+        <loc>https://frstlis.github.io/ITech/2020/12/20/C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0Server-Client/</loc>
+        <lastmod>2021-06-27T06:59:33.160Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://frstlis.github.io/ITech/2021/06/27/Python%E5%9F%BA%E7%A1%80%E5%B0%8F%E9%85%8C/</loc>
         <lastmod>2021-06-27T06:56:10.341Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -82,14 +90,6 @@
 
     <url>
         <loc>https://frstlis.github.io/ITech/2020/12/15/Anaconda-VSCode%E9%85%8D%E7%BD%AEPython%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/</loc>
-        <lastmod>2021-04-09T15:06:16.629Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://frstlis.github.io/ITech/2020/12/20/C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0Server-Client/</loc>
         <lastmod>2021-04-09T15:06:16.629Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
