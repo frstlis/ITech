@@ -6,7 +6,7 @@
   <link href="https://frstlis.github.io/ITech/atom.xml" rel="self"/>
   
   <link href="https://frstlis.github.io/ITech/"/>
-  <updated>2021-06-27T06:56:10.341Z</updated>
+  <updated>2021-06-27T07:10:56.353Z</updated>
   <id>https://frstlis.github.io/ITech/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>range()函数</title>
+    <link href="https://frstlis.github.io/ITech/2021/06/27/range%E5%87%BD%E6%95%B0/"/>
+    <id>https://frstlis.github.io/ITech/2021/06/27/range%E5%87%BD%E6%95%B0/</id>
+    <published>2021-06-27T07:07:38.000Z</published>
+    <updated>2021-06-27T07:10:56.353Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    <category term="Python" scheme="https://frstlis.github.io/ITech/categories/Python/"/>
+    
+    
+    <category term="range()" scheme="https://frstlis.github.io/ITech/tags/range/"/>
+    
+  </entry>
   
   <entry>
     <title>Python基础小酌</title>

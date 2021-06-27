@@ -302,6 +302,22 @@ hexo g -d</code></pre>
       </tags>
   </entry>
   <entry>
+    <title>Python基础小酌</title>
+    <url>/ITech/2021/06/27/Python%E5%9F%BA%E7%A1%80%E5%B0%8F%E9%85%8C/</url>
+    <content><![CDATA[<p>Python 变量存储很有意思。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">a&#x3D;(&quot;p&quot;*2)*3</span><br><span class="line">b&#x3D;(&quot;p&quot;*3)*2</span><br><span class="line">print(a&#x3D;&#x3D;b)</span><br></pre></td></tr></table></figure>
+<p>以上代码输出什么呢？</p>
+<p>欢迎在评论区回复答案。</p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>Python</tag>
+        <tag>变量</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Python实现Server-Client</title>
     <url>/ITech/2020/12/20/Python%E5%AE%9E%E7%8E%B0Server-Client/</url>
     <content><![CDATA[<p>为了尽快的把上一篇提出的问题展示出来，翻看了Python的文档，然后实现一番，果然在代码量上远远少于C语言，更加的形象，判若一个chat！好吧，附上代码和实验截图，一睹为快吧！</p>
@@ -331,6 +347,20 @@ hexo g -d</code></pre>
         <tag>Python</tag>
         <tag>import</tag>
         <tag>Function</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>range()函数</title>
+    <url>/ITech/2021/06/27/range%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">for i in range(1,10,11):</span><br><span class="line">    print(i)</span><br></pre></td></tr></table></figure>
+
+<p>以上代码的输出是什么呢？</p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>Python</category>
+      </categories>
+      <tags>
+        <tag>range()</tag>
       </tags>
   </entry>
   <entry>
@@ -501,22 +531,6 @@ Sorry, user nemo is not allowed to execute &#39;/bin/date&#39; as root on butter
       <tags>
         <tag>Windows</tag>
         <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Python基础小酌</title>
-    <url>/ITech/2021/06/27/Python%E5%9F%BA%E7%A1%80%E5%B0%8F%E9%85%8C/</url>
-    <content><![CDATA[<p>Python 变量存储很有意思。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">a&#x3D;(&quot;p&quot;*2)*3</span><br><span class="line">b&#x3D;(&quot;p&quot;*3)*2</span><br><span class="line">print(a&#x3D;&#x3D;b)</span><br></pre></td></tr></table></figure>
-<p>以上代码输出什么呢？</p>
-<p>欢迎在评论区回复答案。</p>
-<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>Python</category>
-      </categories>
-      <tags>
-        <tag>Python</tag>
-        <tag>变量</tag>
       </tags>
   </entry>
 </search>
