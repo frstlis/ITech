@@ -49,6 +49,30 @@
       </tags>
   </entry>
   <entry>
+    <title>C语言的HelloWorld</title>
+    <url>/ITech/2021/06/27/C%E8%AF%AD%E8%A8%80%E7%9A%84HelloWorld/</url>
+    <content><![CDATA[<p>本渣从 C 语言起步，多年来接触的编程语言也有一些了，数年前开始接触Python，可以说和 C 语言形成一个鲜明的对比了。不管是 Python 还是 C 语言，个有特点，熟悉并适应其规则就好。本渣想说的是“基础”是任何一门语言的重中之重，不能异想天开，想当然，以后有时间也来回顾回顾 C 语言的基础经典，今天就来个世纪经典：Hello C World!!!</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#include &quot;stdio.h&quot;</span><br><span class="line"></span><br><span class="line">int main()&#123;</span><br><span class="line">    printf(&quot;Hello C World!!!&quot;);</span><br><span class="line">    return 0;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>以上代码是其中一种形式，还有其他种吗？在评论区贴上来吧！！！来吧，不要以为其简单的不值一提哈，来，加入吧。</p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>C语言</category>
+      </categories>
+      <tags>
+        <tag>Helloworld</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>GitHub博客调试中</title>
+    <url>/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/</url>
+    <content><![CDATA[<p>加油啊，让技术无国界，让政治在技术中无所作为。</p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <tags>
+        <tag>Python</tag>
+        <tag>Basics</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>C语言实现Server-Client</title>
     <url>/ITech/2020/12/20/C%E8%AF%AD%E8%A8%80%E5%AE%9E%E7%8E%B0Server-Client/</url>
     <content><![CDATA[<p>利用C语言实现客户端浏览器访问服务器和服务器与客户端交互两个场景。</p>
@@ -82,30 +106,6 @@
         <tag>C/C++</tag>
         <tag>Server-Client</tag>
         <tag>Server-Browser</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>GitHub博客调试中</title>
-    <url>/ITech/2021/04/11/GitHub%E5%8D%9A%E5%AE%A2%E8%B0%83%E8%AF%95%E4%B8%AD/</url>
-    <content><![CDATA[<p>加油啊，让技术无国界，让政治在技术中无所作为。</p>
-<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <tags>
-        <tag>Python</tag>
-        <tag>Basics</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>C语言的HelloWorld</title>
-    <url>/ITech/2021/06/27/C%E8%AF%AD%E8%A8%80%E7%9A%84HelloWorld/</url>
-    <content><![CDATA[<p>本渣从 C 语言起步，多年来接触的编程语言也有一些了，<br>数年前开始接触Python，可以说和 C 语言形成一个鲜明的对比了。<br>不管是 Python 还是 C 语言，个有特点，熟悉并适应其规则就好。<br>本渣想说的是“基础”是任何一门语言的重中之重，不能异想天开，<br>想当然，以后有时间也来回顾回顾 C 语言的基础经典，今天就来个<br>世纪经典：Hello C World!!!</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#include &quot;stdio.h&quot;</span><br><span class="line"></span><br><span class="line">int main()&#123;</span><br><span class="line">    printf(&quot;Hello C World!!!&quot;);</span><br><span class="line">    return 0;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
-<p>以上代码是其中一种形式，还有其他种吗？在评论区贴上来吧！！！<br>来吧，不要以为其简单的不值一提哈，来，加入吧。</p>
-<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>C语言</category>
-      </categories>
-      <tags>
-        <tag>Helloworld</tag>
       </tags>
   </entry>
   <entry>
@@ -378,19 +378,6 @@ hexo g -d</code></pre>
       </tags>
   </entry>
   <entry>
-    <title>下载利器IDM</title>
-    <url>/ITech/2020/12/18/%E4%B8%8B%E8%BD%BD%E5%88%A9%E5%99%A8IDM/</url>
-    <content><![CDATA[<p>分享一个下载利器 <a href="https://pan.baidu.com/s/1oz2Nqg8LR-NzvA9c8sx7Rw"><strong>IDM</strong></a> 提取码：cl6f。</p>
-<p><img src="https://img-blog.csdnimg.cn/20201218081104595.jpg#pic_center" alt="logo"></p>
-<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
-      <categories>
-        <category>软件分享</category>
-      </categories>
-      <tags>
-        <tag>IDM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>利用Win10+Node.js+Git+Hexo在GitHub快速部署博客（恢复）</title>
     <url>/ITech/2018/12/01/%E5%88%A9%E7%94%A8Win10-Node-js-Git-Hexo%E5%9C%A8GitHub%E5%BF%AB%E9%80%9F%E9%83%A8%E7%BD%B2%E5%8D%9A%E5%AE%A2-2018-12-01/</url>
     <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>博客，仅音译，英文名为Blogger,为Web Log的混成词。它的正式名称为网络日记；又音译为部落格或部落阁等。博客是继MSN.BBS.ICQ之后出现的第4种网络交流方式，现已受到大家的欢迎，是网络时代的个人“读者文摘”，是以超级链接为武器的网络日记，它代表着新的生活、工作和学习方式。许多博客专注在特定的课题上提供评论或新闻，其他则被作为比较个人的日记。一个典型的博客结合了文字、图像、其他博客或网站的链接及其它与主题相关的媒体，能够让读者以互动的方式留下意见，是许多博客的重要要素。大部分的博客内容以文字为主，仍有一些博客专注在IT、艺术、摄影、视频、音乐、播客等各种主题。博客是社会媒体网络的一部分。比较著名的有Facebook、新浪、网易等。当下网络如此发达，你不想用有一个自己的博客吗？如果你想要具有一个自己的博客，并且自行定制自己的博客，需要怎么做呢？今天我就以他人受之渔受有缘人。</p>
@@ -446,6 +433,19 @@ hexo g -d</code></pre>
         <tag>GitHub</tag>
         <tag>npm</tag>
         <tag>JavaScript</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>下载利器IDM</title>
+    <url>/ITech/2020/12/18/%E4%B8%8B%E8%BD%BD%E5%88%A9%E5%99%A8IDM/</url>
+    <content><![CDATA[<p>分享一个下载利器 <a href="https://pan.baidu.com/s/1oz2Nqg8LR-NzvA9c8sx7Rw"><strong>IDM</strong></a> 提取码：cl6f。</p>
+<p><img src="https://img-blog.csdnimg.cn/20201218081104595.jpg#pic_center" alt="logo"></p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>软件分享</category>
+      </categories>
+      <tags>
+        <tag>IDM</tag>
       </tags>
   </entry>
   <entry>
