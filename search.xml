@@ -95,6 +95,20 @@
       </tags>
   </entry>
   <entry>
+    <title>C语言的HelloWorld</title>
+    <url>/ITech/2021/06/27/C%E8%AF%AD%E8%A8%80%E7%9A%84HelloWorld/</url>
+    <content><![CDATA[<p>本渣从 C 语言起步，多年来接触的编程语言也有一些了，<br>数年前开始接触Python，可以说和 C 语言形成一个鲜明的对比了。<br>不管是 Python 还是 C 语言，个有特点，熟悉并适应其规则就好。<br>本渣想说的是“基础”是任何一门语言的重中之重，不能异想天开，<br>想当然，以后有时间也来回顾回顾 C 语言的基础经典，今天就来个<br>世纪经典：Hello C World!!!</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#include &quot;stdio.h&quot;</span><br><span class="line"></span><br><span class="line">int main()&#123;</span><br><span class="line">    printf(&quot;Hello C World!!!&quot;);</span><br><span class="line">    return 0;</span><br><span class="line">    &#125;</span><br></pre></td></tr></table></figure>
+<p>以上代码是其中一种形式，还有其他种吗？在评论区贴上来吧！！！<br>来吧，不要以为其简单的不值一提哈，来，加入吧。</p>
+<link rel="stylesheet" href="/ITech/css/spoiler.css" type="text/css"><script src="/ITech/js/spoiler.js" type="text/javascript" async></script>]]></content>
+      <categories>
+        <category>C语言</category>
+      </categories>
+      <tags>
+        <tag>Helloworld</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HangInThere</title>
     <url>/ITech/2020/12/19/HangInThere/</url>
     <content><![CDATA[<p><img src="https://img-blog.csdnimg.cn/20201219000658706.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3N0ZXZlbl96ZGc5ODg=,size_16,color_FFFFFF,t_70" alt="1"></p>
