@@ -207,13 +207,6 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/Basics/</loc>
-    <lastmod>2021-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://frstlis.github.io/ITech/tags/HangInThere/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -221,28 +214,14 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/tags/Basics/</loc>
+    <lastmod>2021-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/tags/Hexo/</loc>
-    <lastmod>2021-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/tags/Nodejs/</loc>
-    <lastmod>2021-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/tags/Git/</loc>
-    <lastmod>2021-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/tags/Markdown%E8%AF%AD%E6%B3%95/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,6 +249,27 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/tags/Nodejs/</loc>
+    <lastmod>2021-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://frstlis.github.io/ITech/tags/Git/</loc>
+    <lastmod>2021-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://frstlis.github.io/ITech/tags/Markdown%E8%AF%AD%E6%B3%95/</loc>
+    <lastmod>2021-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/tags/Photoshop/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -277,14 +277,14 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/%E5%8F%98%E9%87%8F/</loc>
+    <loc>https://frstlis.github.io/ITech/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/</loc>
+    <loc>https://frstlis.github.io/ITech/tags/%E5%8F%98%E9%87%8F/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -305,7 +305,7 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/range/</loc>
+    <loc>https://frstlis.github.io/ITech/tags/conda/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -319,7 +319,7 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/conda/</loc>
+    <loc>https://frstlis.github.io/ITech/tags/range/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -412,14 +412,14 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</loc>
+    <loc>https://frstlis.github.io/ITech/categories/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/categories/%E5%A4%87%E5%BF%98%E5%BD%95/</loc>
+    <loc>https://frstlis.github.io/ITech/categories/%E8%BD%AF%E4%BB%B6%E5%88%86%E4%BA%AB/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
