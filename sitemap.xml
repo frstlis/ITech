@@ -93,6 +93,13 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/about/index.html</loc>
+    
+    <lastmod>2021-04-09</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/categories/index.html</loc>
     
     <lastmod>2021-04-09</lastmod>
@@ -101,13 +108,6 @@
   
   <url>
     <loc>https://frstlis.github.io/ITech/tags/index.html</loc>
-    
-    <lastmod>2021-04-09</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/about/index.html</loc>
     
     <lastmod>2021-04-09</lastmod>
     
@@ -277,6 +277,13 @@
   </url>
   
   <url>
+    <loc>https://frstlis.github.io/ITech/tags/%E5%8F%98%E9%87%8F/</loc>
+    <lastmod>2021-06-28</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://frstlis.github.io/ITech/tags/%E8%BF%90%E7%AE%97%E7%AC%A6/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
@@ -305,14 +312,14 @@
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/%E5%8F%98%E9%87%8F/</loc>
+    <loc>https://frstlis.github.io/ITech/tags/IDM/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://frstlis.github.io/ITech/tags/IDM/</loc>
+    <loc>https://frstlis.github.io/ITech/tags/conda/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -341,13 +348,6 @@
   
   <url>
     <loc>https://frstlis.github.io/ITech/tags/JavaScript/</loc>
-    <lastmod>2021-06-28</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://frstlis.github.io/ITech/tags/conda/</loc>
     <lastmod>2021-06-28</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
