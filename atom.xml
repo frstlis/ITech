@@ -6,7 +6,7 @@
   <link href="https://frstlis.github.io/ITech/atom.xml" rel="self"/>
   
   <link href="https://frstlis.github.io/ITech/"/>
-  <updated>2021-06-28T14:10:21.936Z</updated>
+  <updated>2021-06-28T14:12:57.535Z</updated>
   <id>https://frstlis.github.io/ITech/</id>
   
   <author>
@@ -21,16 +21,21 @@
     <link href="https://frstlis.github.io/ITech/2021/06/28/%E5%88%A9%E7%94%A8-Anaconda3-%E9%85%8D%E7%BD%AE-Python-%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/"/>
     <id>https://frstlis.github.io/ITech/2021/06/28/%E5%88%A9%E7%94%A8-Anaconda3-%E9%85%8D%E7%BD%AE-Python-%E5%BC%80%E5%8F%91%E5%AD%A6%E4%B9%A0%E7%8E%AF%E5%A2%83/</id>
     <published>2021-06-28T12:21:51.000Z</published>
-    <updated>2021-06-28T14:10:21.936Z</updated>
+    <updated>2021-06-28T14:12:57.535Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h3 id=&quot;安装-Anaconda3&quot;&gt;&lt;a href=&quot;#安装-Anaconda3&quot; class=&quot;headerlink&quot; title=&quot;安装 Anaconda3&quot;&gt;&lt;/a&gt;安装</summary>
-        
-      
+    <summary type="html">&lt;h3 id=&quot;安装-Anaconda3&quot;&gt;&lt;a href=&quot;#安装-Anaconda3&quot; class=&quot;headerlink&quot; title=&quot;安装 Anaconda3&quot;&gt;&lt;/a&gt;安装 Anaconda3&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;下载()：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://www.anaconda.com/&quot;&gt;官网下载&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/&quot;&gt;清华镜像站下载&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;至于怎么安装就不赘述了。自行查找文档。&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
     
     
     
@@ -437,9 +442,9 @@
     
     <category term="Hexo" scheme="https://frstlis.github.io/ITech/tags/Hexo/"/>
     
-    <category term="MarkdownPro2" scheme="https://frstlis.github.io/ITech/tags/MarkdownPro2/"/>
-    
     <category term="Git" scheme="https://frstlis.github.io/ITech/tags/Git/"/>
+    
+    <category term="MarkdownPro2" scheme="https://frstlis.github.io/ITech/tags/MarkdownPro2/"/>
     
     <category term="Node.js" scheme="https://frstlis.github.io/ITech/tags/Node-js/"/>
     
